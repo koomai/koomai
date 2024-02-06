@@ -1,4 +1,4 @@
-A Sid in Sydney.
+Sid in Sydney.
 
 ![Sydney Opera House](https://source.unsplash.com/4R8YFanrbsQ/1200x450)
 <p align="right">
