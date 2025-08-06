@@ -5,3 +5,4 @@ Sid in Sydney.
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=koomai)](https://github.com/koomai)
 
+Find me on X: [@koomai](https://x.com/koomai)
