@@ -1,5 +1,3 @@
-__Sid in Sydney. 
-
 Blog: https://koomai.net
 
 Find me on X: [@koomai](https://x.com/koomai)
